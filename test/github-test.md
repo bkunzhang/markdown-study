@@ -8,6 +8,9 @@ start
 - [x] [知乎](http://zhihu.com)
 - [x] [QQZone](https://qzone.qq.com/)
 - [x] [CSDN](https://www.csdn.net/)
+- [ ] [知乎](http://zhihu.com)
+- [ ] [QQZone](https://qzone.qq.com/)
+- [ ] [CSDN](https://www.csdn.net/)
 
 end
 > 以上在github上显示为
