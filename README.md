@@ -6,6 +6,7 @@ markdown语法测试、学习记录
 3. [引用](test/test-quote.md)
 4. [几种链接的使用方式](test/link/)
 5. [github一些符号](test/github-test.md)
+6. [各种测试](test/test.md)
 
 
 ## 参考资料
