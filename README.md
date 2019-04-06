@@ -10,6 +10,7 @@ markdown语法测试、学习记录
 
 ## 更多
 ### markdown折叠语法
+`<details>`标签
 > 注意`</summary>`后要空一行
 <details>
 <summary>test折叠</summary>
